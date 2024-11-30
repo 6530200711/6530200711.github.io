@@ -1,7 +1,7 @@
 # 6530200711.github.io
 pongpipat kumchoo
 - my info
-  - Nick name : Base
+  - Nick name : Base , Based
   - สวัสดีครับ ผม"เบท"นะครับ
   - ดั้งเดิมเป็นคนสมุทรปราการ ได้มาเรียน com sci ที่ศรีราชาแบบงงๆ
   - ผมไม่ชอบเขียนโค้ดเท่าไหร่ พอเขียนได้ ไม่ชอบทำเว็บ ไม่ชอบ font-end
@@ -15,3 +15,5 @@ pongpipat kumchoo
 **KEYWORD** [GLOSSARY](classification.md)
 <br/>
 **PARTNER** [NATTANUN](https://tnattanun.github.io/)
+<br/>
+**ตัวอย่างภาพที่ผมถ่ายครับ**
