@@ -10,4 +10,9 @@
 - **ความหมาย:** A statistical classification or nomenclature is an exhaustive and structured set of mutually exclusive and well-described categories, often presented in a hierarchy that is reflected by the numeric or alphabetical codes assigned to them, used to standardise concepts and compile statistical data.
 - **ChatGPT:** การจัดประเภทในบริบทของ Eurostat หมายถึงการจัดกลุ่มข้อมูลอย่างเป็นระบบในหมวดหมู่ที่กำหนดไว้ล่วงหน้า เพื่อให้เกิดความสอดคล้อง ความสามารถในการเปรียบเทียบ และความง่ายต่อการตีความในงานวิเคราะห์และรายงานทางสถิติต่าง ๆ
 - **Gemini:** การจำแนกประเภททางสถิติหรือระบบการตั้งชื่อทางสถิติ เป็นชุดหมวดหมู่ที่ครอบคลุม มีโครงสร้าง ชัดเจน ไม่ซ้ำซ้อน และอธิบายไว้อย่างดี มักจะนำเสนอในรูปแบบลำดับชั้นที่สะท้อนด้วยรหัสตัวเลขหรือตัวอักษรที่กำหนดให้ เพื่อใช้ในการทำให้แนวคิดเป็นมาตรฐานและรวบรวมข้อมูลทางสถิติ
-
+## [Synthesize by myself]
+- **คำศัพท์:** Classification
+- **ความหมาย:** การแบ่งประเภทของวัตถุออกจากกัน โดยอ้างอิงจากลักษณะ เช่น โครงสร้าง ความสำคัญ รูปลักษณ์ เพื่อแยกประเภทให้ชัดเจน
+## [Sample in daily life]
+- การจัดเอกสารให้เป็นหมวดหมู่ เช่น สาธารณะ ภายในองค์กร
+- การจัดหมวดหมูสินค้าออนไลน์ เช่น เสื้อผ้า เครื่องใช้ไฟฟ้า
