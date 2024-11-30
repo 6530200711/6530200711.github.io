@@ -15,7 +15,7 @@
 ## 🌱สิ่งที่สนใจ  
 🖼️ **AI Generation**: ตอนนี้สนใจการเจนภาพจาก [MidJourney](https://www.midjourney.com/) และ [ComfyUI](https://github.com/comfyanonymous/ComfyUI)  
 🔑 **API Key**: ถ้าอาจารย์มี API Key ของ OpenAI ให้ยืมจะดีมากครับ เพราะจะเอามาทำ metadata, CSV ลงภาพ  
-📧 **Contact**:  
+📧 **Contact**
 - Email: pongpipat.k@ku.th  
 - Email (อื่นๆ): pongpipat.kumchoo@gmail.com
 
