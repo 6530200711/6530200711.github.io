@@ -14,7 +14,5 @@ PONGPIPAT KUMCHOO
   - pongpipat.kumchoo@gmai.com
 <br/>
 ## **KEYWORD** [GLOSSARY](classification.md)
-<br/>
 ## **PARTNER** [NATTANUN](https://tnattanun.github.io/)
-<br/>
 # ตัวอย่างภาพที่ผมถ่ายครับ
