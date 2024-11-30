@@ -6,7 +6,7 @@
 👨‍💻 **Nickname:** Base, Based  
 🗣️ **สวัสดีครับ!** ผม "เบท" ครับ  
 📍 **Origin:** สมุทรปราการ, ตอนนี้มาเรียนที่ศรีราชา  
-🤖 **About Me:** ผมไม่ค่อยชอบเขียนโค้ดเท่าไหร่ แต่สามารถทำได้บ้างครับ 😅  
+🤖 **About Me:** ผมไม่ค่อยชอบเขียนโค้ดเท่าไหร่ ไม่ชอบ font-end แต่สามารถทำได้บ้างครับ 😅  
 🌐 **Tech Interest:** ชอบถ่ายรูป (ตอนนี้เริ่มทำ Adobe Stock)  
 📸 ![alt text](base.jpg)
 
@@ -38,17 +38,12 @@
 
 ---
 
-## 📈 Stats
-![Base's GitHub Stats](https://github-readme-stats.vercel.app/api?username=6530200711&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
 ## ✨ Tools & Technologies  
 Here are some of the tools and technologies I use:  
 🖥️ **Languages & Tools:**  
 - Python  
 - JavaScript  
-- HTML/CSS  
+- C
 - Adobe Photoshop  
 - Adobe Lightroom
 
