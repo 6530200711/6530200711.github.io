@@ -16,3 +16,8 @@ PONGPIPAT KUMCHOO
 ## **KEYWORD** [GLOSSARY](classification.md)
 ## **PARTNER** [NATTANUN](https://tnattanun.github.io/)
 # ตัวอย่างภาพที่ผมถ่ายครับ
+![alt text](assets/1.jpg)
+![alt text](assets/2.jpg)
+![alt text](assets/3.jpg)
+![alt text](assets/4.jpg)
+![alt text](assets/5.jpg)
