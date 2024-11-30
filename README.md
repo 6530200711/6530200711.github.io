@@ -4,6 +4,6 @@ pongpipat kumchoo
   - Nick name : Base
   - สวัสดีครับ ผม"เบท"นะครับ
 ![alt text](base.jpg)
-[GLOSSARY](classification.md)
+**KEYWORD**[GLOSSARY](classification.md)
 <br/>
 [NATTANUN](https://tnattanun.github.io/)
