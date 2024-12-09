@@ -10,7 +10,7 @@
 🌐 **Tech Interest:** ชอบถ่ายรูป (ตอนนี้เริ่มทำ Adobe Stock)  
 📸 **This me** 
 <br/>
-![alt text](base.jpg)
+![alt text](assets/base.jpg)
 
 ---
 
