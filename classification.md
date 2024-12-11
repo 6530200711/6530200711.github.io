@@ -1,3 +1,4 @@
+#CLASSIFICATION
 ## [CISSP Glossary - Student Guide](https://www.isc2.org/Certifications/CISSP/CISSP-Student-Glossary#c)
 - **คำศัพท์:** Classification
 - **ความหมาย:** Classification refers to the process of categorizing information based on sensitivity and criticality, considering its value, legal requirements, and potential impact if disclosed or misused.
