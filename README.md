@@ -9,7 +9,7 @@
 🤖 **About Me:** ผมไม่ค่อยชอบเขียนโค้ดเท่าไหร่ ไม่ชอบ font-end แต่สามารถทำได้บ้างครับ 😅  
 🌐 **Tech Interest:** ชอบถ่ายรูป (ตอนนี้เริ่มทำ Adobe Stock)  
 📸 **This me** 
-<br/>
+
 ![alt text](assets/base.jpg)
 
 ---
