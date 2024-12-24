@@ -55,3 +55,7 @@ Here are some of the tools and technologies I use:
 - MidJourney  
 - ComfyUI
 
+---
+
+## Theme card
+[Christmas and New Year](e-card.md)
