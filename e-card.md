@@ -1,1 +1,1 @@
-![alt text](e-card/xmas.jpg)
+![alt text](e-card/xmas.png)
