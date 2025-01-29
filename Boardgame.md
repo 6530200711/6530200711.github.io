@@ -8,3 +8,7 @@
 
   บรรยากาศการทำกิจกรรม (เมื่อวันที่ 8 มกราคม 2567 เวลาประมาณ 17.00 น. ณ บริเวณ ตึก 17 มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา)
 [![Video](boardgame_img/pic3.jpg)](https://youtu.be/ZvQ2fzvgYxU)
+**เพื่อนร่วมอุดมการณ์**
+
+[Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame.html)
+
