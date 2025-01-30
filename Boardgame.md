@@ -11,4 +11,6 @@
 **เพื่อนร่วมอุดมการณ์**
 
 [Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame.html)
-
+[Watcharakorn Rassameedit](https://bestwatchara.github.io/boardgame)
+[Chaiyaporn Poonsawat](https://lnwnott.github.io/boardgame)
+[Pakkawat jitpronsub](https://pondxd.github.io/boardgame.html/)
