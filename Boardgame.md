@@ -10,8 +10,8 @@
 [![Video](boardgame_img/pic3.jpg)](https://youtu.be/ZvQ2fzvgYxU)
 **เพื่อนร่วมอุดมการณ์**
 
-[Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame.html)
-[Watcharakorn Rassameedit](https://bestwatchara.github.io/boardgame)
-[Chaiyaporn Poonsawat](https://lnwnott.github.io/boardgame)
-[Pakkawat jitpronsub](https://pondxd.github.io/boardgame.html/)
-[Nattanun Kamondecha](https://tnattanun.github.io/BoardGame.html)
+--[Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame.html)
+--[Watcharakorn Rassameedit](https://bestwatchara.github.io/boardgame)
+--[Chaiyaporn Poonsawat](https://lnwnott.github.io/boardgame)
+--[Pakkawat jitpronsub](https://pondxd.github.io/boardgame.html/)
+--[Nattanun Kamondecha](https://tnattanun.github.io/BoardGame.html)
