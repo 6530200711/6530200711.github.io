@@ -12,6 +12,6 @@
 
 -[Rattanapong Muangkrathok](https://rattanapong7.github.io/boardgame.html)  
 -[Watcharakorn Rassameedit](https://bestwatchara.github.io/boardgame)  
--[Chaiyaporn Poonsawat](https://lnwnott.github.io/boardgame)  
+-[Chaiyaporn Poolsawat](https://lnwnott.github.io/boardgame)  
 -[Pakkawat jitpronsub](https://pondxd.github.io/boardgame.html/)  
 -[Nattanun Kamondecha](https://tnattanun.github.io/BoardGame.html)  
