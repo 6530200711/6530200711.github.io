@@ -15,3 +15,4 @@
 - การแชร์ไฟล์ใน DropBox เมื่อผู้ใช้เพิ่มหรือแก้ไขไฟล์ในคอมพิวเตอร์ ไฟล์นั้นจะถูกซิงโครไนซ์ไปยังคลาวด์และอุปกรณ์อื่นๆ เช่น โทรศัพท์มือถือหรือแท็บเล็ตโดยอัตโนมัติ หากมีการแก้ไขไฟล์จากหลายอุปกรณ์พร้อมกัน ระบบจะต้องจัดการความขัดแย้ง (conflict resolution) อย่างเหมาะสม เพื่อป้องกันข้อมูลสูญหายหรือผิดพลาด
 ## Buddy
 https://tnattanun.github.io/security-requirements.html
+## [Nattanun](https://tnattanun.github.io/security-requirements.html)
