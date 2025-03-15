@@ -1,9 +1,9 @@
 # Security-Control  
-## Digital Door Lock
-- **Location** : Condo
+## RFID Door Lock
+- **Location** : ประตูทางเข้าติดลิฟท์ เคนชิงตันตึก A
 - **Control Function** : Preventative
 - **Type of Security Control** : Physical Control
-![activity](assets/control.jpg)
+![activity](assets_security-control/IMG_20250315_173827.jpg)
 
 ### เป็น Physical Control เพราะ
 - Digital Door Lock เป็นอุปกรณ์ที่ใช้ควบคุมการเข้าถึงทางกายภาพของพื้นที่
