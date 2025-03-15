@@ -1,4 +1,3 @@
-# Security-Control  
 ## RFID Door Lock
 - **Location** : ประตูทางเข้าติดลิฟท์ เคนชิงตันตึก A
 - **Control Function** : Preventative
